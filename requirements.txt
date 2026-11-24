@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+presidio-analyzer
+presidio-anonymizer
+spacy
+pytest
+httpx
+pyyaml
+python-dotenv
